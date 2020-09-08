@@ -1,5 +1,6 @@
 ---
 layout: slide
-title: "welcome to our second slide!"
-Adieu My friend
+title: "Welcome to our second slide!"
+---
+Easy peasy super cheesy.md
 Use the left arrow to go back!
